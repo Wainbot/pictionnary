@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="dataSourceStorageLocal">
-    <data-source name="MySQL - pictionnary@localhost" uuid="26b50e89-a90b-47ef-a3dc-163ae4082a9a">
-      <secret-storage>master_key</secret-storage>
-      <user-name>test</user-name>
-    </data-source>
-  </component>
-</project>
