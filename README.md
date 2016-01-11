@@ -1,3 +1,3 @@
 # Pictionnary
-### Jérémy FROMENT
-### LP SIL IDSE
+#### Jérémy FROMENT
+#### *LP SIL IDSE*
