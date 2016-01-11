@@ -1,0 +1,35 @@
+ul li {
+  list-style-type: none; }
+
+.panel {
+  -moz-box-shadow: 2px 2px 5px 0 #484848;
+  -webkit-box-shadow: 2px 2px 5px 0 #484848;
+  -o-box-shadow: 2px 2px 5px 0 #484848;
+  box-shadow: 2px 2px 5px 0 #484848;
+  border-color: #2c3e50; }
+  .panel .panel-heading {
+    background-color: #2c3e50;
+    color: #FFF; }
+
+#myCanvas {
+  cursor: crosshair !important;
+  border: 1px solid #484848;
+  margin-top: 30px; }
+
+#myCanvas2 {
+  cursor: not-allowed !important;
+  border: 1px solid #484848;
+  margin-top: 30px; }
+
+#btn-retour-guess {
+  position: fixed;
+  right: 10px;
+  top: 10px; }
+
+#my-tools {
+  cursor: move;
+  position: fixed;
+  top: 10px;
+  right: 10px; }
+
+/*# sourceMappingURL=styles.css.map */
